@@ -246,7 +246,6 @@ python-multipart==0.0.6
 python-pptx==0.6.21
 python-semantic-release==7.33.2
 pythreejs==2.4.2
-pywin32==306
 pywin32-ctypes==0.2.2
 PyYAML==6.0
 pyzmq==25.1.0
