@@ -30,7 +30,7 @@ def read_docx(file):
         text.append(para.text)
     return "\n".join(text)
 
-st.title('⏭️PDF of Estimate to Dataframe')
+st.title('⏭️PDF of Estimate to CSV')
 st.write("A MINTER 🤖")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file", type=["pdf", "txt", "docx"])
